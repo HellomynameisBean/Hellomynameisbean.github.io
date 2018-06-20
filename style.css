@@ -1,15 +1,30 @@
 h1 {
    font-family: Arial, Courier New;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
 }
 h4 {
    font-family: Arial, Courier New;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
 }
 p {
    font-family: Arial, Courier New;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
 }
 ul {
- font-family: Arial, Courier New;   
+ font-family: Arial, Courier New;
+   display: felx;
+   flex-wrap: wrap;
+   justify-content: center;
 }
 h3 {
    font-family: Arial, Courier New;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
 }
